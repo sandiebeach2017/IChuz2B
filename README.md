@@ -4,4 +4,4 @@ This repository contains the starter code for my vlog and helper website focused
 
 ## Getting started
 
-Open `/tmp/workspace/sandiebeach2017/IChuz2B/index.html` in a browser to view the site.
+Open `index.html` in your browser to view the site.
